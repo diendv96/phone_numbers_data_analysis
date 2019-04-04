@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35f91f52-b4a8-4ea7-ac2a-5b3fcaec5c8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Trustingsocial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/PhoneNumber.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/PhoneNumberResult.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/App.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/PhoneNumberResult_Test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_find_actual_activation_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_produce_correct_output.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,14 +59,16 @@
           <entry key="Dockerfile" value="27" />
           <entry key="Python Console" value="16" />
           <entry key="Trustingsocial" value="4" />
-          <entry key="md" value="64" />
+          <entry key="md" value="211" />
           <entry key="py" value="1734" />
+          <entry key="txt" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Dockerfile" value="27" />
-          <entry key="Markdown" value="64" />
+          <entry key="Markdown" value="211" />
+          <entry key="PLAIN_TEXT" value="68" />
           <entry key="Python" value="1754" />
         </counts>
       </usages-collector>
@@ -116,8 +103,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <first_editor relative-caret-position="90">
+                <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -417,6 +404,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554260191418</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task 1 assignment: Find actual activation date of phone number">
+      <created>1554367720570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554367720570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -453,7 +448,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -484,6 +478,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1 assignment: Find actual activation date of phone number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1 assignment: Find actual activation date of phone number" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -635,8 +633,8 @@ dir_path = os.path.dirname(path)</expression-string>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>

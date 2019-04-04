@@ -4,3 +4,5 @@ Setup environment and running this app in Docker environment
 ```docker run -it --name  app:v1 bin/bash```
 
 The output file in the data folder.
+
+Running test: ```pytest```
